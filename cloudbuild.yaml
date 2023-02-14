@@ -17,4 +17,4 @@ steps:
   - run
   - --filename=k8s/
   - --location=europe-west4
-  - --cluster=project-kube
+  - --cluster=autopilot-cluster-1
